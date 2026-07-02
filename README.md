@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise RAG
 
 Production-oriented retrieval-augmented generation platform for 29,000+ documents, designed for air-gapped deployment with Docker Compose and Kubernetes migration in mind.
@@ -106,3 +107,6 @@ Base path: `/api/v1`
 ## Security
 
 Change `APP_SECRET_KEY`, PostgreSQL credentials, and MinIO credentials before production. Replace the seeded admin account after first login.
+=======
+# RAG-Cursor
+>>>>>>> 886dca3f2acfe64ceb86918851f86ef8cffbb95d
